@@ -2,7 +2,7 @@ let captions = [
 
 "Khoảnh khắc đi chơi xa đầu tiên của tụi mình ❤️",
 
-"Em là điều đẹp nhất đối với anh",
+"Cnhun là điều đẹp nhất đối với anhh",
 
 "Hy vọng tụi mình sẽ còn nhiều năm nữa bên nhauu",
 
